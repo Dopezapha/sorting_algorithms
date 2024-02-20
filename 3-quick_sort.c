@@ -53,7 +53,7 @@ int partition(int *array, int low, int high, size_t size)
 }
 
 /**
- * _quick_s - Recursively sorts the array using Quick sort algorithm
+ * quick_s - Recursively sorts the array using Quick sort algorithm
  * @array: Pointer to the array to be sorted
  * @low: Index of the lower bound of the partition
  * @high: Index of the upper bound of the partition
